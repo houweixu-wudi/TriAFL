@@ -1,6 +1,6 @@
 # TriAFL
 
-his project provides a PyTorch implementation for the paper below.
+This project provides a PyTorch implementation for the paper below.
 
 ![](img\workFlow.png)
 
