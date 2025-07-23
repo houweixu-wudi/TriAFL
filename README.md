@@ -2,7 +2,7 @@
 
 This project provides a PyTorch implementation for the paper below.
 
-![](img\workFlow.png)
+![](img/workFlow.png)
 
 > A Tri-Factor Adaptive Federated Learning Framework for Parkinson’s Disease Diagnosis via Multi-Source Facial Expression Analysis
 > Meng Pang, Member IEEE, Houwei Xu, Zheng Huang, Yintao Zhou, Shengbo Chen, 
