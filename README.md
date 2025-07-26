@@ -1,10 +1,11 @@
 # TriAFL
 
-This project provides a PyTorch implementation for the paper below.
+This project provides a PyTorch implementation for the paper below. And this work is being submitted to Journal of Biomedical and Health Informatics(JBHI).
 
 ![](img/workFlow.png)
 
-> A Tri-Factor Adaptive Federated Learning Framework for Parkinson’s Disease Diagnosis via Multi-Source Facial Expression Analysis
+> **A Tri-Factor Adaptive Federated Learning Framework for Parkinson’s Disease Diagnosis via Multi-Source Facial Expression Analysis**
+> 
 > Meng Pang, Member IEEE, Houwei Xu, Zheng Huang, Yintao Zhou, Shengbo Chen, 
 > Binghui Wang, Member IEEE, Wei Huang∗
 >
